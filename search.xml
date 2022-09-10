@@ -17,19 +17,6 @@
     
     
     <entry>
-      <title>ESP32入门学习资料</title>
-      <link href="/2022/09/07/ls/"/>
-      <url>/2022/09/07/ls/</url>
-      
-        <content type="html"><![CDATA[<h1 id="入门ESP32的资源集合（网站、工具等）"><a href="#入门ESP32的资源集合（网站、工具等）" class="headerlink" title="入门ESP32的资源集合（网站、工具等）"></a>入门ESP32的资源集合（网站、工具等）</h1><h2 id="1、参考资料网站"><a href="#1、参考资料网站" class="headerlink" title="1、参考资料网站"></a>1、参考资料网站</h2><p>乐鑫官方：<a href="https://www.espressif.com.cn/zh-hans"> 乐鑫科技 (espressif.com.cn)</a></p><p>官方API参考：<a href="https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-reference/index.html#">API 参考 - ESP32 - — ESP-IDF 编程指南 latest 文档 (espressif.com)</a></p><p>AT固件使用参考：<a href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32/">ESP-AT 用户指南 - ESP32 - — ESP-AT 用户指南 latest 文档 (espressif.com)</a></p><p>乐鑫官方在Github上面的库，开源的代码都在上面：<a href="https://github.com/espressif">Espressif Systems (github.com)</a></p><h2 id="2、工具"><a href="#2、工具" class="headerlink" title="2、工具"></a>2、工具</h2><p>固件（ｂｉｎ文件）下载工具flash：<a href="https://www.espressif.com.cn/zh-hans/support/download/other-tools">工具 | 乐鑫科技 (espressif.com.cn)</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>ESP32学习之GPIO</title>
       <link href="/2022/09/07/GPIO/"/>
       <url>/2022/09/07/GPIO/</url>
@@ -53,6 +40,19 @@
             <tag> 外设 </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ESP32入门学习资料</title>
+      <link href="/2022/09/07/ls/"/>
+      <url>/2022/09/07/ls/</url>
+      
+        <content type="html"><![CDATA[<h1 id="入门ESP32的资源集合（网站、工具等）"><a href="#入门ESP32的资源集合（网站、工具等）" class="headerlink" title="入门ESP32的资源集合（网站、工具等）"></a>入门ESP32的资源集合（网站、工具等）</h1><h2 id="1、参考资料网站"><a href="#1、参考资料网站" class="headerlink" title="1、参考资料网站"></a>1、参考资料网站</h2><p>乐鑫官方：<a href="https://www.espressif.com.cn/zh-hans"> 乐鑫科技 (espressif.com.cn)</a></p><p>官方API参考：<a href="https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-reference/index.html#">API 参考 - ESP32 - — ESP-IDF 编程指南 latest 文档 (espressif.com)</a></p><p>AT固件使用参考：<a href="https://docs.espressif.com/projects/esp-at/zh_CN/latest/esp32/">ESP-AT 用户指南 - ESP32 - — ESP-AT 用户指南 latest 文档 (espressif.com)</a></p><p>乐鑫官方在Github上面的库，开源的代码都在上面：<a href="https://github.com/espressif">Espressif Systems (github.com)</a></p><h2 id="2、工具"><a href="#2、工具" class="headerlink" title="2、工具"></a>2、工具</h2><p>固件（ｂｉｎ文件）下载工具flash：<a href="https://www.espressif.com.cn/zh-hans/support/download/other-tools">工具 | 乐鑫科技 (espressif.com.cn)</a></p>]]></content>
+      
+      
       
     </entry>
     
